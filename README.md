@@ -13,7 +13,7 @@
     <img src="public/logo192.png" alt="Logo" height="80">
   </a>
 
-<h3 align="center">Rider</h3>
+<h3 align="center">React Movies</h3>
 
   <p align="center">
     Movie information app with search functionality
